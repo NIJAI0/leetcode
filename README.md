@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/NIJAI0/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/NIJAI0/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
