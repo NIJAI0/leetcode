@@ -6,7 +6,6 @@ class Solution:
         else:
             res = int(str(x)[::-1])
         
-        if res > 2 ** 31 - 1 or res < -2 ** 31:
+        if res > 2**31-1 or res < -2**31:
             return 0
-        
         return res
